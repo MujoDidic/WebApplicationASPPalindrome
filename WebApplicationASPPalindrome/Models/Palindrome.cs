@@ -9,7 +9,5 @@ namespace WebApplicationASPPalindrome.Models
         public bool IsPalindrome { get; set; }
         public string Message { get; set; } 
 
-
-
     }
 }
